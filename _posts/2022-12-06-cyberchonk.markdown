@@ -2,7 +2,7 @@
 layout: album
 title: cyberchonk
 location: DALL·E 2
-tags: [DALL·E 2, AI generated art]
+tags: [DALL-E, AI-art]
 album: '/images/2022/december/6/'
 ---
 

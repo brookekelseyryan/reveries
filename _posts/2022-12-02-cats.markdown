@@ -1,0 +1,9 @@
+---
+layout: album
+title: lounging cats
+location: DALL·E 2
+tags: [DALL-E, AI-art]
+album: '/images/2022/december/2/'
+---
+
+cat lounging in house with indoor plants in Henri Rousseau style. made with DALL·E 2.
