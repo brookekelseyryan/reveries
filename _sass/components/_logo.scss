@@ -4,13 +4,19 @@
 
 .c-logo {
   &__link {
-    font-size: $font-size-base;
+    font-size: 2.5rem;
     font-weight: $font-weight-bolder;
     transition: $global-transition;
+    font-family: "Tan Aegean";
 
     @include attention() {
       color: $color-brand;
       text-decoration: none;
     }
+  }
+
+  &__photo {
+    max-width: 15%;
+    margin-left: fill;
   }
 }

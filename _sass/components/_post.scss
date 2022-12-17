@@ -4,11 +4,12 @@
 
 .c-post {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 900px;
 
   &__title {
     font-size: double($font-size-tiny);
     margin-bottom: $base-spacing-unit;
+    font-family: "Tan Aegean";
 
     @include mq($from: tablet) {
       font-size: double($font-size-small);
@@ -22,9 +23,10 @@
     text-align: center;
     margin-bottom: $base-spacing-unit;
     font-size: $font-size-small;
-    font-weight: $font-weight-bold;
+    font-weight: $font-weight-light;
     line-height: $line-height-small;
-    color: $color-gray;
+    color: $color-text;
+    font-family: "Domaine Sans Text Light";
 
     &:after {
       position: absolute;

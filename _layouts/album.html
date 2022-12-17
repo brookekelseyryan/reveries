@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.image %}
+<meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
+{% endif %}
+
+<div class='o-wrapper'>
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
+
+        <h1 class='c-post__title u-text-center'>{{ page.date | date: '%B %d, %Y' }}</h1>
+
+        <p class='c-post__date'>{{ page.location }}</p>
+
+        {% for image in site.static_files %}
+        {% if image.path contains page.album %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <hr>
+        {% endif %}
+        {% endfor %}
+
+
+        <div class='c-content' itemprop='articleBody'>
+          {% include album-card.liquid %}
+
+          {{ content }}
+        </div>
+
+        <div class='c-tags'>
+          {% for tag in page.tags %}
+          <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
+          {% endfor %}
+        </div>
+
+        <hr>
+
+
+      </article>
+    </div>
+  </div>
+</div>

@@ -1,3 +1,14 @@
 /*------------------------------------*\
   Elements > Fonts
 \*------------------------------------*/
+
+@font-face {
+  font-family: 'Tan Aegean';
+  src: url($baseurl + '/fonts/TAN_AEGEAN_Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Domaine Sans Text Light';
+  src: url($baseurl + '/fonts/DomaineSansText-Light.otf');
+}
+

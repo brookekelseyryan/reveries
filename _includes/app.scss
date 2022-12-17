@@ -2,6 +2,8 @@
 // Main Style
 // *------------------------------------*/
 
+$baseurl: "{{ site.baseurl }}";
+
 // TOOLS
 @import 'tools/_all';
 

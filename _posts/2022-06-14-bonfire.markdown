@@ -1,0 +1,7 @@
+---
+layout: album
+title: Trey's Birthday Bonfire
+location: Huntington Beach, CA
+tags: [fujifilm, x100v]
+album: '/images/2022/june/14/'
+---

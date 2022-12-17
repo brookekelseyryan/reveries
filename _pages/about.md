@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
-image: '/images/pages/about.jpeg'
+title: WTF*CK IS THIS
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+My name is Brooke K. Ryan.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This website was inspired by [Catherine Bui's journal](https://catherinebui.com/journal) which I found through [Typewolf](https://www.typewolf.com/portfolio-sites). I love the concept of a personal page to share my photography or other miscellany---especially one that is not on social media.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+So I made this page as a creative outlet to share my photos and whatnot. It also helps me keep track of the edits and pictures I liked throughout the year. I'm hoping it will inspire me to take more pictures.
+
+If you want to see my main professional website instead, visit [here](https://brookekryan.com).
