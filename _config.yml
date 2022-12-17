@@ -15,6 +15,8 @@ twitter:     ''
 github:      ''
 instagram:   ''
 facebook:    ''
+favicon: '/images/logobrooke.svg'
+
 
 markdown:  kramdown
 permalink: pretty

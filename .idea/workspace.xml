@@ -20,39 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2e1a60-6848-4e0e-869f-6b481ac414c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/style-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/albums.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-access-main-program-access-main-security-access-main-program-grid.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american-hotdog.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-how-to-travel-around-the-world-with-less-expenses.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-i-get-paid-all-day-every-day-which-is-almost-too-much-for-a-sensitive-artist-2.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-i-get-paid-all-day-every-day-which-is-almost-too-much-for-a-sensitive-artist.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-i-think-it-is-time-we-inform-the-senate-that-our-ability-to-use-the-force-has-diminished-2.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live-by-those-fucking-rules.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-if-you-have-an-opportunity-to-use-your-voice-you-should-use-it.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-it-would-be-totally-painless-theyd-just-slip-into-unconsciousness-and-die.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-21-verybody-listen-we-have-to-put-a-barrier-between-us-and-the-snakes.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-22-i-think-it-is-time-we-inform-the-senate-that-our-ability-to-use-the-force-has-diminished.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-22-i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live-by-rules.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-22-if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all-the-time.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-22-the-reason-were-gathered-here-on-our-god-given-much-naeeded-day-of-rest-is-that-we-have-a-polish-hostage.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_logo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_off-canvas.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_off-canvas.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_post-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_post-card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/elements/_body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/elements/_body.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/elements/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/elements/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/elements/_hr.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/elements/_hr.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/objects/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/objects/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/settings/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/settings/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +60,9 @@
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_albums" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_albums" />
       <recent name="$PROJECT_DIR$/_sass" />
       <recent name="$PROJECT_DIR$/_sass/elements" />
     </key>
@@ -106,7 +77,7 @@
       <updated>1671170507299</updated>
       <workItem from="1671170508388" duration="4007000" />
       <workItem from="1671220148437" duration="2065000" />
-      <workItem from="1671234590287" duration="8321000" />
+      <workItem from="1671234590287" duration="9714000" />
     </task>
     <servers />
   </component>
@@ -130,9 +101,9 @@
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
     <state x="486" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1671240403209" />
-    <state x="688" y="285" width="929" height="490" key="find.popup" timestamp="1671239881742">
+    <state x="688" y="285" width="929" height="490" key="find.popup" timestamp="1671246773185">
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
-    <state x="688" y="285" width="929" height="490" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1671239881742" />
+    <state x="688" y="285" width="929" height="490" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1671246773185" />
   </component>
 </project>
