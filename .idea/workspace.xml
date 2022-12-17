@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db2e1a60-6848-4e0e-869f-6b481ac414c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logobrooke.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +48,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/images/2022/june/14" />
       <recent name="$PROJECT_DIR$/images/2022/june" />
-      <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -77,7 +77,7 @@
       <updated>1671170507299</updated>
       <workItem from="1671170508388" duration="4007000" />
       <workItem from="1671220148437" duration="2065000" />
-      <workItem from="1671234590287" duration="9714000" />
+      <workItem from="1671234590287" duration="10725000" />
     </task>
     <servers />
   </component>
@@ -101,9 +101,9 @@
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
     <state x="486" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1671240403209" />
-    <state x="688" y="285" width="929" height="490" key="find.popup" timestamp="1671246773185">
+    <state x="688" y="285" width="929" height="490" key="find.popup" timestamp="1671247691301">
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
-    <state x="688" y="285" width="929" height="490" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1671246773185" />
+    <state x="688" y="285" width="929" height="490" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1671247691301" />
   </component>
 </project>
