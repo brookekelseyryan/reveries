@@ -1,6 +1,4 @@
 ---
-layout: page
+layout: album
 title: Albums
 ---
-
-Coming soon

@@ -20,7 +20,7 @@ favicon: '/images/logochonk.svg'
 
 markdown:  kramdown
 permalink: pretty
-paginate:  2
+paginate:  1
 
 sass:
   style: compressed
@@ -43,8 +43,11 @@ tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
 collections:
-  albums:
+  art:
     output: true
+
+dates:
+
 
 # Pages path
 defaults:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WTF*CK IS THIS
+title: where am i
 ---
 
 My name is Brooke K. Ryan.
