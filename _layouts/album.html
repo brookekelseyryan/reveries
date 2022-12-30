@@ -2,14 +2,15 @@
 layout: default
 ---
 
+{% include base_path %}
+
 <div class='o-wrapper'>
   <div class='o-grid'>
-    {% for post in site.art %}
-    {% include album-card.liquid %}
-    {% endfor %}
-  </div>
+    <div class='o-grid__col'>
+      <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
-  <!--  <div class='o-grid'>-->
-  <!--    {% include pagination.html %}-->
-  <!--  </div>-->
+        <h1 class='c-post__title u-text-center'>{{ post.date | date: '%B %d, %Y' }}</h1>
+      </article>
+  </div>
+</div>
 </div>

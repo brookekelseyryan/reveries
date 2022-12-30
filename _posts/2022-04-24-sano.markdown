@@ -1,7 +1,9 @@
 ---
-layout: album
-title: San Onofre with Tyler, Jack, and Moon
+layout: post
+title: San O with Tyler, Jack, and Moon
 location: San Onofre State Beach, CA
 tags: [fujifilm, x100v]
+cover: '/images/2022/april/24/'
+favorites: '/images/2022/april/24/'
 album: '/images/2022/april/24/'
 ---

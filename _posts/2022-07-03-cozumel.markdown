@@ -1,0 +1,9 @@
+---
+layout: post
+title: Scuba Club Cozumel
+location: San Miguel de Cozumel, Quintana Roo, Mexico
+tags: [fujifilm, x100v]
+cover: '/images/2022/july/3/'
+favorites: '/images/2022/july/3/'
+album: '/images/2022/july/3/'
+---

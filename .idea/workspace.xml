@@ -21,12 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="db2e1a60-6848-4e0e-869f-6b481ac414c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/album-card.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/album-card.liquid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/album.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/albums.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/albums.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-12-02-cats.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_art/2022-12-02-cats.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-12-06-cyberchonk.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_art/2022-12-06-cyberchonk.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-04-24-sano.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-04-24-sano.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-06-14-bonfire.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-06-14-bonfire.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_post.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/2022/december/2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -82,6 +83,10 @@
       <workItem from="1671170508388" duration="4007000" />
       <workItem from="1671220148437" duration="2065000" />
       <workItem from="1671234590287" duration="13043000" />
+      <workItem from="1671676736848" duration="315000" />
+      <workItem from="1671761702200" duration="532000" />
+      <workItem from="1672292101689" duration="1055000" />
+      <workItem from="1672379101194" duration="5302000" />
     </task>
     <servers />
   </component>

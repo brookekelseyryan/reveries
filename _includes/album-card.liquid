@@ -4,7 +4,7 @@
     <h3 class='c-post-card__title'>{{ post.date | date: '%B %d, %Y' }}</h3>
 
     {% for image in site.static_files %}
-      {% if image.path contains post.album %}
+      {% if image.path contains post.favorites %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         <hr>
       {% endif %}
