@@ -20,14 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db2e1a60-6848-4e0e-869f-6b481ac414c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/album-card.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/album-card.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/album.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-04-24-sano.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-04-24-sano.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-06-14-bonfire.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-06-14-bonfire.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/components/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022/december/28/favorites/007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022/december/28/favorites/007.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +88,7 @@
       <workItem from="1671761702200" duration="532000" />
       <workItem from="1672292101689" duration="1055000" />
       <workItem from="1672379101194" duration="5302000" />
+      <workItem from="1672441893575" duration="301000" />
     </task>
     <servers />
   </component>
@@ -110,9 +112,10 @@
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
     <state x="486" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1671240403209" />
-    <state x="688" y="285" width="929" height="490" key="find.popup" timestamp="1671249313062">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state x="688" y="283" width="929" height="490" key="find.popup" timestamp="1672442005398">
+      <screen x="0" y="25" width="1792" height="1029" />
     </state>
+    <state x="688" y="283" width="929" height="490" key="find.popup/0.25.1792.1029@0.25.1792.1029" timestamp="1672442005398" />
     <state x="688" y="285" width="929" height="490" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1671249313062" />
   </component>
 </project>
